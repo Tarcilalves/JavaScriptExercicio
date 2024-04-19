@@ -1,0 +1,9 @@
+1 - Vamos criar uma função simples para que possa ser executada. Ao ser executada 
+esta primeira função possa realizar o calculo - a partir de um argumento numérico - 
+o valor de uma porcentagem que também será oferecido como segundo argumento dessa função.
+
+2 - Criar e executar uma segunda função para obter uma conversão de valores de temperatura -
+medidas em graus.  Converter de Fahrenheit para Celsius e uma outra que faz a conversão de Celsius para Fahrenheit.
+
+3 - criar um nova função para retornar um valor booleano - verdadeiro ou falso - 
+para verificar e informar se um determinado numero atribuido a uma variavel é primo.
